@@ -1,0 +1,7 @@
+1 Towers of Hanoi problem
+2 Quick-sort and/or merge-sort algorithms
+3 N-queens problem (chess)
+4 Find minimum / maximum in an array
+5 Binary search in a file / array / list
+10 Merge two sorted linked lists
+11 Convert BST into doubly-linked list in-mem, in-place
